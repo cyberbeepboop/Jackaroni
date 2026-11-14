@@ -1,0 +1,103 @@
+# Terms of Service
+Jackaroni TOS
+**Last Updated: November 14, 2026**
+
+## 1. Acceptance of Terms
+By using the Bot, you confirm that you have read, understood, and agreed to these Terms of Service. These terms apply to all users, server administrators, and individuals interacting with the Bot.
+
+## 2. Acceptable Use
+You agree to use the Bot responsibly and only for its intended purposes.
+
+You may not:
+- Use the Bot to harass, threaten, or target other individuals.
+- Exploit, abuse, or intentionally interfere with the Bot's functionality.
+- Attempt to bypass, disable, or manipulate the Bot's security systems.
+- Use the Bot for illegal activities or activities that violate Discord's Terms of Service.
+- Reverse engineer, copy, redistribute, or modify the Bot without permission.
+- Abuse moderation or anti-raid features to maliciously target members.
+
+## 3. Bot Functionality
+The Bot may provide features including, but not limited to:
+- Server moderation and automated moderation.
+- Anti-raid and anti-nuke protection.
+- Warning, kicking, banning, and timeout systems.
+- Moderation logs and audit functionality.
+- Configurable security and protection systems.
+
+Features may be modified, suspended, added, or removed at any time without prior notice.
+
+## 4. Moderation and Automated Actions
+The Bot may automatically take moderation actions based on configured rules, detected behavior, or server settings.
+
+Server owners and administrators are responsible for:
+- Configuring moderation settings appropriately.
+- Reviewing automated moderation actions.
+- Ensuring the Bot has only the permissions it requires.
+- Resolving moderation disputes within their own communities.
+
+We are not responsible for moderation decisions made by server administrators or actions resulting from incorrectly configured settings.
+
+## 5. Data Collection and Storage
+The Bot may collect and temporarily or permanently store information necessary for its functionality, including:
+- Discord user IDs and server IDs.
+- Moderation records, including warnings, bans, and other actions.
+- Server configuration and security settings.
+- Anti-raid and anti-nuke detection information.
+- Command usage and relevant activity logs.
+
+Information is used only for providing, maintaining, improving, and securing the Bot.
+
+We do not intentionally collect passwords, payment information, or Discord account login credentials.
+
+## 6. Data Responsibility
+Server administrators are responsible for ensuring that their use of the Bot complies with applicable privacy laws and regulations.
+
+We take reasonable steps to protect stored information but cannot guarantee that data will always be secure or that unauthorized access will never occur.
+
+## 7. Availability and Reliability
+The Bot is provided on an "AS IS" and "AS AVAILABLE" basis.
+
+We do not guarantee:
+- Continuous or uninterrupted availability.
+- Error-free functionality.
+- Complete protection against raids, attacks, or malicious activity.
+- That every moderation or security threat will be detected.
+- That stored information will never be lost.
+
+The Bot is a supplementary security tool and should not be considered a replacement for responsible server administration.
+
+## 8. Limitation of Liability
+To the maximum extent permitted by applicable law, the Bot's developers and maintainers shall not be held liable for:
+- Server damage, raids, or unauthorized activity.
+- Incorrect moderation decisions or false detections.
+- Data loss or unauthorized access.
+- Service interruptions or unexpected downtime.
+- Losses resulting from the use or inability to use the Bot.
+
+You use the Bot at your own risk.
+
+## 9. Termination of Access
+We reserve the right to restrict, suspend, or terminate access to the Bot for users or servers that abuse its functionality, violate these Terms, or interfere with its operation.
+
+You may stop using the Bot at any time by removing it from your Discord server.
+
+## 10. Changes to These Terms
+We reserve the right to update or modify these Terms of Service at any time. Updated versions will be made available through our designated website, Discord server, or other official communication channels.
+
+Continued use of the Bot after changes are published constitutes acceptance of the updated Terms, to the extent permitted by applicable law.
+
+## 11. Third-Party Services
+The Bot operates through Discord and is subject to Discord's Terms of Service and Community Guidelines.
+
+We are not affiliated with, endorsed by, or officially associated with Discord Inc.
+
+## 12. Contact Information
+If you have questions, concerns, or requests regarding these Terms of Service, please contact us through:
+
+- **Support Server:** [Your Discord Support Server]
+- **Developer:** [Your Name or Team]
+- **Email:** [Your Contact Email]
+
+---
+
+**By using the Bot, you acknowledge that you have read and agreed to these Terms of Service.**
