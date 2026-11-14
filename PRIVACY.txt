@@ -1,0 +1,144 @@
+# Jackaroni Privacy Policy
+
+**Last Updated: November 14, 2026**
+
+This Privacy Policy explains how **Jackaroni** ("the Bot", "we", "our", or "us") collects, uses, stores, and protects information when you use or interact with the Bot.
+
+By using Jackaroni or inviting it to your Discord server, you acknowledge this Privacy Policy.
+
+## 1. Information We Collect
+
+Jackaroni may collect and store the following information to provide its functionality:
+
+**Discord Information**
+- Discord User IDs.
+- Discord Server (Guild) IDs.
+- Usernames and display names when necessary.
+- Server names and configuration information.
+
+**Moderation Information**
+- Warning records.
+- Ban, kick, and timeout records.
+- Moderation action history.
+- Moderation reasons and relevant staff information.
+- Moderation command usage.
+
+**Security Information**
+- Anti-raid detection records.
+- Anti-nuke detection records.
+- Suspicious activity information.
+- Join and leave activity when necessary for security features.
+- Security configurations and protection settings.
+
+**Technical Information**
+- Bot command usage.
+- Error reports and diagnostic information.
+- Information required to maintain the Bot's functionality and reliability.
+
+We only collect information reasonably necessary for the Bot's operation.
+
+## 2. How We Use Your Information
+
+Collected information may be used to:
+
+- Provide moderation functionality.
+- Maintain warning and punishment records.
+- Detect and prevent raids and malicious activity.
+- Protect Discord servers from unauthorized actions.
+- Maintain server-specific configurations.
+- Investigate technical issues and errors.
+- Improve the Bot's reliability, performance, and security.
+- Respond to support requests.
+
+We do not intentionally use collected information for advertising or sell personal information to third parties.
+
+## 3. Data Storage and Retention
+
+Information may be stored in databases or other secure storage systems used by Jackaroni.
+
+Data may be retained for as long as necessary to provide the Bot's functionality.
+
+Examples include:
+- Moderation records retained for historical reference.
+- Server configurations retained while the Bot is active in a server.
+- Security logs retained for investigation and protection purposes.
+- Diagnostic information retained for troubleshooting.
+
+Retention periods may vary depending on the type of information and its purpose.
+
+## 4. Data Sharing
+
+We do not sell, rent, or trade collected information.
+
+Information may only be disclosed when:
+- Required by applicable law or a valid legal request.
+- Necessary to protect the security of Jackaroni or its users.
+- Necessary to investigate abuse, exploitation, or malicious activity.
+- Required to operate services that support the Bot, where applicable.
+
+We do not publicly expose private moderation records intentionally.
+
+## 5. Data Security
+
+We take reasonable measures to protect stored information against unauthorized access, modification, disclosure, or destruction.
+
+However, no database, hosting environment, or online service can be guaranteed to be completely secure.
+
+We cannot guarantee absolute protection against data breaches or unauthorized access.
+
+## 6. User Data Requests
+
+Users and server administrators may request information regarding data associated with their Discord accounts or servers.
+
+Requests may include:
+- Access to eligible stored information.
+- Correction of inaccurate information.
+- Deletion of eligible stored information.
+- Removal of server-specific information.
+
+Requests can be submitted through our official support server.
+
+Some information may need to be retained for legitimate security, operational, or legal purposes.
+
+## 7. Server Administrators
+
+Server administrators are responsible for ensuring that their use of Jackaroni complies with applicable privacy laws and regulations.
+
+Administrators should inform their server members when moderation and security logging features are enabled.
+
+Server administrators are also responsible for configuring the Bot's permissions appropriately.
+
+## 8. Third-Party Services
+
+Jackaroni operates through Discord and may rely on third-party hosting or infrastructure providers.
+
+Your use of Discord is also subject to Discord's own Privacy Policy and Terms of Service.
+
+Jackaroni is independently operated and is not affiliated with or endorsed by Discord Inc.
+
+## 9. Children's Privacy
+
+Jackaroni is not specifically designed to collect personal information from children.
+
+We do not knowingly collect information beyond what is necessary to provide the Bot's functionality.
+
+## 10. Changes to This Privacy Policy
+
+We reserve the right to update or modify this Privacy Policy at any time.
+
+Changes will be published through our official website, Discord support server, or another designated communication channel.
+
+Continued use of Jackaroni following publication of changes constitutes acknowledgment of the updated Privacy Policy, where permitted by applicable law.
+
+## 11. Contact Information
+
+For questions, concerns, or privacy-related requests, contact us through:
+
+- **Bot Name:** Jackaroni
+- **Support Server:** [Your Discord Support Server]
+- **Developer:** [Your Name or Team]
+- **Contact Email:** [Your Contact Email]
+
+---
+
+**By using Jackaroni, you acknowledge that you have read and understood this Privacy Policy.**
